@@ -40,7 +40,7 @@ Este repositório contém a implementação de algoritmos fundamentais e estrutu
   <table border="0">
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/SimoneSoaress/Estrutura_de_Dados/main/SimoneMayara(icon-1)-Photoroom.jpg" width="45" height="45" style="border-radius:50%">
+        <img src="https://raw.githubusercontent.com/SimoneSoaress/Estrutura_de_Dados/main/avatarAssinado.png" width="45" height="45" style="border-radius:50%">
       </td>
       <td>
         <font size="5">Desenvolvido por <b>Simone Mayara Soares</b></font>
